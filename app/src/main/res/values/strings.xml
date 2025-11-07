@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Memory Power Test</string>
+    <string name="memory_test_history">📜 Memory Test History</string>
+</resources>
